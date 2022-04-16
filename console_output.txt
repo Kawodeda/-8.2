@@ -1,0 +1,58 @@
+Enter the number of dates: 5
+
+Enter the date#1:
+Day = 31
+Month = 12
+Year = 2012
+Hour = 23
+Minute = 59
+Second = 59
+Result: 23:59:59 31.12.2012
+
+Enter the date#2:
+Day = 11
+Month = 9
+Year = 2011
+Hour = 10
+Minute = 1
+Second = 23
+Result: 10:01:23 11.09.2011
+
+Enter the date#3:
+Day = 6
+Month = 7
+Year = 2013
+Hour = 0
+Minute = 0
+Second = 1
+Result: 00:00:01 06.07.2013
+
+Enter the date#4:
+Day = 25
+Month = 4
+Year = 2010
+Hour = 18
+Minute = 0
+Second = 9
+Result: 18:00:09 25.04.2010
+
+Enter the date#5:
+Day = 11
+Month = 11
+Year = 2012
+Hour = 14
+Minute = 38
+Second = 50
+Result: 14:38:50 11.11.2012
+
+Ordered by increasing:
+
+18:00:09 25.04.2010
+
+10:01:23 11.09.2011
+
+14:38:50 11.11.2012
+
+23:59:59 31.12.2012
+
+00:00:01 06.07.2013
